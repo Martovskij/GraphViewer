@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using SampleCode.Model;
 
 namespace BlockEditorTester
 {
@@ -23,6 +24,12 @@ namespace BlockEditorTester
     public MainWindow()
     {
       InitializeComponent();
+
+      var rootNode = new Node(null);
+      rootNode.AddChildNode(new Node(null));
+      rootNode.AddChildNode(new Node(null));
+      rootNode.AddChildNode(new Node(null));
+      this.Editor.DataSource = rootNode;
     }
   }
 }

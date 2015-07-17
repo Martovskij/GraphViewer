@@ -75,6 +75,7 @@
   <ItemGroup>
     <Compile Include="AdornedControl\AdornedControl.cs" />
     <Compile Include="AdornedControl\AdornerEventArgs.cs" />
+    <Compile Include="HierarchyConverter.cs" />
     <Compile Include="IEntityHierarchyConverter.cs" />
     <Compile Include="Model\Node.cs" />
     <Compile Include="UI\ConnectionDragEvents.cs" />

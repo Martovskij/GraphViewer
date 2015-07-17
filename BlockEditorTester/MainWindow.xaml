@@ -5,7 +5,5 @@
         Title="MainWindow"
         Width="525"
         Height="350">
-  <sampleCode:BlockEditor>
-    
-  </sampleCode:BlockEditor>
+  <sampleCode:BlockEditor Name="Editor" />
 </Window>

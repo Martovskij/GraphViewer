@@ -6,15 +6,20 @@ using System.Text;
 
 namespace SampleCode.Model
 {
-  public class Node<T> : INotifyPropertyChanged where T : class
+  public class Node : INotifyPropertyChanged
   {
-    private Node<T> parent;
+    private readonly Node parent;
 
-    private List<Node<T>> childNodes = new List<Node<T>>();
+    public Node Parent
+    {
+      get { return this.parent; }
+    }
 
-    public T Payload { get; set; }
+    private List<Node> childNodes = new List<Node>();
 
-    public IEnumerable<Node<T>> ChildNodes
+    public object Payload { get; set; }
+
+    public IEnumerable<Node> ChildNodes
     {
       get
       {
@@ -22,9 +27,9 @@ namespace SampleCode.Model
       }
     }
 
-    public Node(Node<T> parent)
+    public void AddChildNode(Node node)
     {
-      this.parent = parent;
+      this.childNodes.Add(node);
     }
 
     public event PropertyChangedEventHandler PropertyChanged;
@@ -33,6 +38,12 @@ namespace SampleCode.Model
     {
       var handler = this.PropertyChanged;
       if (handler != null) handler(this, new PropertyChangedEventArgs(propertyName));
+    }
+
+    public Node(Node parent)
+    {
+      this.parent = parent;
+      this.Payload = "undefined";
     }
   }
 }

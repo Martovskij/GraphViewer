@@ -17,6 +17,7 @@ using System.Windows.Controls.Primitives;
 using Utils;
 using NetworkModel;
 using System.Collections;
+using SampleCode.Model;
 
 namespace SampleCode
 {
@@ -26,7 +27,7 @@ namespace SampleCode
   public partial class BlockEditor : UserControl
   {
     public static readonly DependencyProperty DataSourceProperty = DependencyProperty.Register(
-      "DataSource", typeof(object), typeof(BlockEditor), new PropertyMetadata(default(object)));
+      "DataSource", typeof(object), typeof(BlockEditor), new FrameworkPropertyMetadata(DataSourceChangedHandler));
 
     public object DataSource
     {
@@ -43,6 +44,21 @@ namespace SampleCode
       set { SetValue(HiearchyConverterProperty, value); }
     }
 
+
+    private static void DataSourceChangedHandler(DependencyObject d, DependencyPropertyChangedEventArgs e)
+    {
+      var blockEditor = d as BlockEditor;
+      if (blockEditor != null)
+      {
+        var root = blockEditor.DataSource as Node;
+        var editorViewModel = blockEditor.DataContext as BlockEditorViewModel;
+        if (root != null && editorViewModel != null)
+        {
+          editorViewModel.BuildGraph(root);
+        }
+        
+      }
+    }
 
      
     public BlockEditor()

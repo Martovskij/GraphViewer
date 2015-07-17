@@ -146,9 +146,9 @@ namespace NetworkModel
 
                 foreach (var connector in this.Connectors)
                 {
-                    if (connector.AttachedConnection != null)
+                    if (connector.AttachedConnections != null)
                     {
-                        attachedConnections.Add(connector.AttachedConnection);
+                        attachedConnections.AddRange(connector.AttachedConnections);
                     }
                 }
 
