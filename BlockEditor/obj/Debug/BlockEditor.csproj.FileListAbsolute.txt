@@ -1,0 +1,13 @@
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\BlockEditor.g.cs
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SimpleSample_MarkupCompile.cache
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SimpleSample_MarkupCompile.lref
+D:\tmp\GraphViewer\BlockEditor\bin\Debug\SimpleSample.dll
+D:\tmp\GraphViewer\BlockEditor\bin\Debug\SimpleSample.pdb
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\BlockEditor.baml
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\Themes\Generic.baml
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SimpleSample.g.resources
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SampleCode.Properties.Resources.resources
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\BlockEditor.csproj.GenerateResource.Cache
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SimpleSample.dll
+D:\tmp\GraphViewer\BlockEditor\obj\Debug\SimpleSample.pdb

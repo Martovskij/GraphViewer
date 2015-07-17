@@ -1,0 +1,10 @@
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\bin\Debug\ZoomAndPan.dll
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\bin\Debug\ZoomAndPan.pdb
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan.2008.csprojResolveAssemblyReference.cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan_MarkupCompile.lref
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\Themes\Generic.baml
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan.g.resources
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan.dll
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\ZoomAndPan\obj\Debug\ZoomAndPan.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="BlockTester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:blockTester="clr-namespace:BlockTester"
+        xmlns:sampleCode="clr-namespace:SampleCode;assembly=SimpleSample"
+        Title="BlockEditor"
+        Width="525"
+        Height="350"
+        Loaded="MainWindow_OnLoaded">
+  <Window.Resources>
+    <blockTester:DataConverter x:Key="Converter" />
+  </Window.Resources>
+  <Grid>
+    <sampleCode:BlockEditor DataSource="{Binding Data}" HiearchyConverter="{StaticResource Converter}" />
+  </Grid>
+</Window>

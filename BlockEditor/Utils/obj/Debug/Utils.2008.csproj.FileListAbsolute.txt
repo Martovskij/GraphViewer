@@ -1,0 +1,5 @@
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\Utils\bin\Debug\Utils.dll
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\Utils\bin\Debug\Utils.pdb
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\Utils\obj\Debug\Utils.2008.csprojResolveAssemblyReference.cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\Utils\obj\Debug\Utils.dll
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\Utils\obj\Debug\Utils.pdb

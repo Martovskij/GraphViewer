@@ -1,0 +1,17 @@
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\bin\Debug\BlockTester.exe.config
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.csprojResolveAssemblyReference.cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\App.g.cs
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester_MarkupCompile.cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\bin\Debug\BlockTester.exe
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\bin\Debug\BlockTester.pdb
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\bin\Debug\SimpleSample.exe
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\bin\Debug\SimpleSample.pdb
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\MainWindow.baml
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\MainWindow.g.cs
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.g.resources
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.Properties.Resources.resources
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.csproj.GenerateResource.Cache
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.exe
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester.pdb
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\tmp\NetworkViewSampleCode\NetworkViewSampleCode\BlockTester\obj\Debug\BlockTester_MarkupCompile.lref
